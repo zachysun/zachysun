@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://github.com/ZachySun">
- <img align="center" src="https://github-readme-stats-teal.vercel.app/api?username=ZachySun&show_icons=truet&include_all_commits=True&hide=contribs" alt="ZachySun's github stats" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=ZachySun&show_icons=truet&include_all_commits=True&hide=contribs" alt="ZachySun's github stats" />
  </a>
