@@ -10,7 +10,7 @@ Research interests:
 
 - Time Series Analysis, Time Series-Language Model, LLM4TS (current)
 - Image Restoration, Vision-Language Model
-- Traffic Prediction
+- Traffic Prediction, Spatio-Temporal Learning
 - ...
 
 Skills:
