@@ -3,6 +3,8 @@
 <a href="https://github.com/zachysun">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zachysun&show_icons=truet&include_all_commits=True&hide=contribs" alt="zachysun's github stats" />
  </a>
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachysun&layout=compact)
 
 Research interests:
 
