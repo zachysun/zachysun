@@ -6,7 +6,7 @@
  
  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachysun&layout=compact)
 
-Research interests:
+### Research interests:
 
 - Time Series-Language Models, LLM4TS [2024.5 - Present]
 - Image Restoration, Vision-Language Models, Medical Imaging [2024.3 - Present]
@@ -15,7 +15,7 @@ Research interests:
 - Imbalaced Learning (tabular data) [2021 - 2022]
 - ...
 
-Skills:
+### Skills:
 
 - Python, C/C++, JavaScript, MATLAB
 - Pytorch, Tensorflow
