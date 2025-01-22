@@ -1,10 +1,4 @@
-### Hi there 👋 I'm Zhengke Sun
-
-### GitHub Stats
-
-![Zhengke Sun's GitHub stats](https://github-readme-stats.vercel.app/api?username=zachysun&show_icons=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zachysun&layout=compact)
+## Hi there 👋 I'm Zhengke Sun
 
 ### Research interests:
 
@@ -19,3 +13,12 @@
 - Python, C/C++, JavaScript, MATLAB
 - Pytorch, Tensorflow
 - Vue.js, Node.js
+
+
+### GitHub Stats & Languages
+
+<div align="left" >
+<img height="160px" src="https://github-readme-stats.vercel.app/api?username=zachysun&show_icons=true&count_private=true" />
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zachysun&layout=compact" /><br>
+
+</div>
