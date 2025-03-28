@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Zhengke Sun
+## Hi there 👋
 
 ### GitHub Stats & Languages
 
@@ -20,5 +20,5 @@
 ### Skills:
 
 - Python, C/C++, JavaScript, MATLAB
-- Pytorch, Tensorflow
-- Vue.js, Node.js
+- Pytorch, Tensorflow, LaTeX, Vue.js, Node.js
+  
