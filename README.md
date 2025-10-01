@@ -12,6 +12,7 @@
 ### Experiences on AI:
 
 #### Active:
+- Doing... [2025.8 - Present]
 
 #### Inactive:
 - Image Restoration, Vision-Language Models, Medical Imaging [2024.3 - 2025.3]
